@@ -91,6 +91,4 @@ data-warehouse-project/
 - 🧹 Focus: Clean and integrate most recent data only
 - 📊 Output: Star schema with business-ready tables for insights
 
-For full requirements and task breakdown, see [`docs/requirements.md`](./docs/requirements.md).
-
 
