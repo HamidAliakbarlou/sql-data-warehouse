@@ -12,8 +12,8 @@ This project implements a **Medallion Architecture** with three structured layer
 - **Silver Layer**: Data cleaning, deduplication, standardization, and normalization for improved data quality.
 - **Gold Layer**: Business-ready star schema models (fact & dimension tables) optimized for analytics and reporting.
   
-- The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/FInal DIagram.PNG)
+- The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:![Dashboard Preview](docs/FInal DIagram.PNG)
+- !()
 ---
 
 ## 📌 Project Goals
