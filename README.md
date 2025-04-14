@@ -6,14 +6,14 @@ This portfolio project demonstrates an end-to-end modern data warehousing and an
 
 ## 🏗️ Project Architecture: Medallion Design
 
-This project implements a **Medallion Architecture** with three structured layers:
+The data architecture for this projectfollows a **Medallion Architecture** with three structured layers:
 
 - **Bronze Layer**: Raw data ingestion from ERP and CRM CSV files into SQL Server. No transformations.
 - **Silver Layer**: Data cleaning, deduplication, standardization, and normalization for improved data quality.
 - **Gold Layer**: Business-ready star schema models (fact & dimension tables) optimized for analytics and reporting.
   
-- The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architect](docs/Untitled Diagram 34.png)
+![Data Architecture](docs/FinalDiagram.PNG)
+
 --
 
 ## 📌 Project Goals
