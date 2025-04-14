@@ -14,7 +14,6 @@ The data architecture for this projectfollows a **Medallion Architecture** with 
   
 ![Data Architecture](docs/FinalDiagram.PNG)
 
---
 
 ## 📌 Project Goals
 
